@@ -4,9 +4,6 @@
 Applying the knowledge that I learned in the Udacity x AWS Introduction to Machine Learning course to compete in a Kaggle competition using the AutoGluon library in AWS SageMaker.
 
 ## Getting Started
-<img src="img/sagemaker-studio-git1.png" alt="sagemaker-studio-git1.png" width="500"/>
-<img src="img/sagemaker-studio-git2.png" alt="sagemaker-studio-git2.png" width="500"/>
-
 * Proceed with the project within the [jupyter notebook](project-template.ipynb).
 * **Data Source:** Visit the [Kaggle Bike Sharing Demand Competition](https://www.kaggle.com/c/bike-sharing-demand) page. There you will see the overall details about the competition including overview, data, code, discussion, leaderboard, and rules. 
 
